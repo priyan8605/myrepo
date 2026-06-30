@@ -1,0 +1,9 @@
+
+1. Github account 
+2. Empty repository
+3. inside local system  use:
+     a>git config --global user.name "<userName>"
+     b>git config -- global user.email "<userEmail>"
+4. git push -u origin master 
+     4.1 userName
+     4.2 userPassword => this is the password of userName and it will be the token that is generated
